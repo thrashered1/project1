@@ -1,2 +1,3 @@
 # project1
-Projects for my internship application
+Project for my internship application
+Simple calculator using HTML CSS JS
